@@ -1,5 +1,11 @@
+__pycache__
 monet2photo
 vangogh2photo
 monet2photo.zip
 vangogh2photo.zip
-CycleGAN.pdf
+paperCycleGAN.pdf
+AtoB_generated_plot_*
+BtoA_generated_plot_*
+resultados_entrenamiento_1
+g_model_*
+logs_entrenamiento_tocho.txt
